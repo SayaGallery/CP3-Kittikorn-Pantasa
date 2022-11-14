@@ -1,0 +1,6 @@
+t  = int(input())
+p  = int(input())
+print(t,"+",p,"=",t+p)
+print(t,"-",p,"=",t-p)
+print(t,"*",p,"=",t*p)
+print(t,"/",p,"=",t/p)
